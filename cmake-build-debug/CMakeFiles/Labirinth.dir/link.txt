@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Labirinth.dir/Src/main.cpp.o CMakeFiles/Labirinth.dir/Src/Maze.cpp.o  -o Labirinth 

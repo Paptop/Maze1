@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/Labirinth/Src/Maze.cpp
+limits
+-
+algorithm
+-
+cassert
+-
+Maze.h
+/home/user/CLionProjects/Labirinth/Src/Maze.h
+
+/home/user/CLionProjects/Labirinth/Src/Maze.h
+iostream
+-
+vector
+-
+list
+-
+string
+-
+fstream
+-
+iomanip
+-
+
